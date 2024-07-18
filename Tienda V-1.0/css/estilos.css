@@ -1,0 +1,64 @@
+
+/*Disño de el cuerpo de la pagina completo*/
+body{
+    background-color: aqua;
+
+}
+
+/*Pie de pagina lo ultimo*/
+
+footer{
+    background-color: blue;
+}
+
+
+/*Letra de pies de la pagina lo utlimo */
+.pieletra{
+    color: #ffffff;
+    margin-top: 30rem;
+    font-size: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+/*La cabeza de la pagina el menu estilo*/
+
+.nave{
+    background-color: rgb(174, 255, 0);
+    padding: 2rem;
+    margin: 2rem;
+    
+   
+}
+
+.naveletra{
+    font-size: 5rem;
+    text-align: center;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Letra y el nombre de todos los articulos */
+.Prueba{
+    width: 500px;  /* Ancho del cuadrado */
+    height: 400px; /* Altura del cuadrado, igual al ancho para hacer un cuadrado */
+    background-color: #ff0707; /* Color de fondo (opcional) */
+    border: 1px solid #000;    /* Borde (opcional) */
+
+
+}
